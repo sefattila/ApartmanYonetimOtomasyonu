@@ -1,0 +1,17 @@
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\bin\Debug\ApartmanYonetim.exe.config
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\bin\Debug\ApartmanYonetim.exe
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\bin\Debug\ApartmanYonetim.pdb
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\obj\Debug\ApartmanYonetim.csprojAssemblyReference.cache
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\obj\Debug\ApartmanYonetim.Properties.Resources.resources
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\obj\Debug\ApartmanYonetim.csproj.GenerateResource.cache
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\obj\Debug\ApartmanYonetim.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\obj\Debug\ApartmanYonetim.exe
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\obj\Debug\ApartmanYonetim.pdb
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\obj\Debug\ApartmanYonetim.FrmGiris.resources
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\obj\Debug\ApartmanYonetim.FrmAdminPaneli.resources
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\obj\Debug\ApartmanYonetim.FrmAptBilgi.resources
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\obj\Debug\ApartmanYonetim.FrmAdminBilgi.resources
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\obj\Debug\ApartmanYonetim.FrmAptKalanlar.resources
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\obj\Debug\ApartmanYonetim.FrmAidat.resources
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\obj\Debug\ApartmanYonetim.FrmOdeme.resources
+C:\Users\Sefa\source\repos\ApartmanYonetim\ApartmanYonetim\obj\Debug\ApartmanYonetim.FrmSakinGirisi.resources
